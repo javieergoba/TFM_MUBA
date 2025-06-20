@@ -1,7 +1,7 @@
 # TFM_MUBA
-Trabajo de Fin de Máster - Máster en Business Analytics: Análisis de los sesgos no instruccionales en las encuestas de valoración del profesorado
+Trabajo de Fin de Máster - Máster en Business Analytics: ·"Análisis de los sesgos no instruccionales en las encuestas de evaluación del profesorado"
 
-Este es un repositorio que contiene el código utilizado para la elaboración del proyecto de fin de máster del Máster en Business Analytics (Universidad Pontificia Comillas).
+Este es un repositorio que contiene el código utilizado para la elaboración del proyecto de fin de máster del Máster en Business Analytics (Universidad Pontificia Comillas)
 
 Año 2024-25.
 
